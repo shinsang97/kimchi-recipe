@@ -1,2 +1,2 @@
-/test.txt
-/ddd.txt
+kimchi-recipe/test.txt
+kimchi-recipe/ddd.txt
