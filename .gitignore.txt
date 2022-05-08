@@ -1,2 +1,2 @@
-*test.txt
-*ddd.txt
+test
+ddd
